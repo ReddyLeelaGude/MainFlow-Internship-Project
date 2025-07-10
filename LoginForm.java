@@ -1,5 +1,4 @@
 package loginapp;
-
 import javax.swing.*;
 
 public class LoginForm extends javax.swing.JFrame {
